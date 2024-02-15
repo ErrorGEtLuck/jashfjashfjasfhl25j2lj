@@ -1,0 +1,2 @@
+echo tested
+pause null
